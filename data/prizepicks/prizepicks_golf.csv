@@ -1,176 +1,176 @@
 source,league,player_id,player_name,position,team,stat_type,line_score,adjusted_odds,odds_type,status,start_time,data_id,scraped_at
-PrizePicks,PGA,262010,Ryo Hisatsune,G,,Strokes,69,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13988269,2026-08-21T06:34:49.607042+00:00
-PrizePicks,PGA,255022,Patrick Cantlay,G,,Strokes,68,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13988267,2026-08-21T06:34:49.607065+00:00
-PrizePicks,PGA,262010,Ryo Hisatsune,G,,Pars,12,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13989918,2026-08-21T06:34:49.607071+00:00
-PrizePicks,PGA,255022,Patrick Cantlay,G,,Pars,11.5,True,standard,pre_game,2026-08-21T10:03:00.000-04:00,13984712,2026-08-21T06:34:49.607075+00:00
-PrizePicks,PGA,262010,Ryo Hisatsune,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13990810,2026-08-21T06:34:49.607078+00:00
-PrizePicks,PGA,255022,Patrick Cantlay,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T10:03:00.000-04:00,13985197,2026-08-21T06:34:49.607082+00:00
-PrizePicks,PGA,255022,Patrick Cantlay,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T10:03:00.000-04:00,13985152,2026-08-21T06:34:49.607088+00:00
-PrizePicks,PGA,262010,Ryo Hisatsune,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13988607,2026-08-21T06:34:49.607091+00:00
-PrizePicks,PGA,262010,Ryo Hisatsune,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T10:03:00.000-04:00,13984665,2026-08-21T06:34:49.607093+00:00
-PrizePicks,PGA,262010,Ryo Hisatsune,G,,Bogeys or Worse,2.5,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13989639,2026-08-21T06:34:49.607097+00:00
-PrizePicks,PGA,255022,Patrick Cantlay,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13989635,2026-08-21T06:34:49.607099+00:00
-PrizePicks,PGA,267951,Nicolas Echavarria,G,,Strokes,69,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13988266,2026-08-21T06:34:49.607102+00:00
-PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13988265,2026-08-21T06:34:49.607105+00:00
-PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Pars,11.5,True,standard,pre_game,2026-08-21T10:14:00.000-04:00,13985151,2026-08-21T06:34:49.607108+00:00
-PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13990804,2026-08-21T06:34:49.607111+00:00
-PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T10:14:00.000-04:00,13988707,2026-08-21T06:34:49.607113+00:00
-PrizePicks,PGA,267951,Nicolas Echavarria,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13988599,2026-08-21T06:34:49.607118+00:00
-PrizePicks,PGA,267951,Nicolas Echavarria,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T10:14:00.000-04:00,13985144,2026-08-21T06:34:49.607121+00:00
-PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13989633,2026-08-21T06:34:49.607124+00:00
-PrizePicks,PGA,267945,Alex Noren,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T10:25:00.000-04:00,13984690,2026-08-21T06:34:49.607127+00:00
-PrizePicks,PGA,292436,Jake Knapp,G,,Strokes,68,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13988262,2026-08-21T06:34:49.607130+00:00
-PrizePicks,PGA,267945,Alex Noren,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T10:25:00.000-04:00,13984692,2026-08-21T06:34:49.607133+00:00
-PrizePicks,PGA,267945,Alex Noren,G,,Pars,12,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13989911,2026-08-21T06:34:49.607137+00:00
-PrizePicks,PGA,292436,Jake Knapp,G,,Pars,11,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13989914,2026-08-21T06:34:49.607139+00:00
-PrizePicks,PGA,267945,Alex Noren,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13990797,2026-08-21T06:34:49.607143+00:00
-PrizePicks,PGA,292436,Jake Knapp,G,,Fairways Hit,8,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13990801,2026-08-21T06:34:49.607146+00:00
-PrizePicks,PGA,292436,Jake Knapp,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T10:25:00.000-04:00,13984687,2026-08-21T06:34:49.607151+00:00
-PrizePicks,PGA,267945,Alex Noren,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13988589,2026-08-21T06:34:49.607154+00:00
-PrizePicks,PGA,267945,Alex Noren,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T10:25:00.000-04:00,13984662,2026-08-21T06:34:49.607157+00:00
-PrizePicks,PGA,292436,Jake Knapp,G,,Bogeys or Worse,2.5,True,standard,pre_game,2026-08-21T10:25:00.000-04:00,13985154,2026-08-21T06:34:49.607160+00:00
-PrizePicks,PGA,267945,Alex Noren,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13989625,2026-08-21T06:34:49.607163+00:00
-PrizePicks,PGA,298361,Rickie Fowler,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T10:36:00.000-04:00,13984683,2026-08-21T06:34:49.607166+00:00
-PrizePicks,PGA,284270,Robert MacIntyre,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T10:36:00.000-04:00,13985143,2026-08-21T06:34:49.607169+00:00
-PrizePicks,PGA,284270,Robert MacIntyre,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T10:36:00.000-04:00,13984697,2026-08-21T06:34:49.607171+00:00
-PrizePicks,PGA,284270,Robert MacIntyre,G,,Pars,11,False,standard,pre_game,2026-08-21T10:36:00.000-04:00,13989915,2026-08-21T06:34:49.607175+00:00
-PrizePicks,PGA,284270,Robert MacIntyre,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T10:36:00.000-04:00,13990806,2026-08-21T06:34:49.607178+00:00
-PrizePicks,PGA,298361,Rickie Fowler,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T10:36:00.000-04:00,13984702,2026-08-21T06:34:49.607183+00:00
-PrizePicks,PGA,298361,Rickie Fowler,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T10:36:00.000-04:00,13988602,2026-08-21T06:34:49.607186+00:00
-PrizePicks,PGA,284270,Robert MacIntyre,G,,Bogeys or Worse,2.5,True,standard,pre_game,2026-08-21T10:36:00.000-04:00,13984691,2026-08-21T06:34:49.607189+00:00
-PrizePicks,PGA,267953,Xander Schauffele,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T10:47:00.000-04:00,13984699,2026-08-21T06:34:49.607192+00:00
-PrizePicks,PGA,255038,Rory McIlroy,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T10:47:00.000-04:00,13985148,2026-08-21T06:34:49.607195+00:00
-PrizePicks,PGA,267953,Xander Schauffele,G,,Pars,11.5,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13989922,2026-08-21T06:34:49.607198+00:00
-PrizePicks,PGA,255038,Rory McIlroy,G,,Pars,11,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13989916,2026-08-21T06:34:49.607201+00:00
-PrizePicks,PGA,267953,Xander Schauffele,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T10:47:00.000-04:00,13985088,2026-08-21T06:34:49.607204+00:00
-PrizePicks,PGA,255038,Rory McIlroy,G,,Fairways Hit,8,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13990807,2026-08-21T06:34:49.607207+00:00
-PrizePicks,PGA,255038,Rory McIlroy,G,,Birdies Or Better,5,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13988604,2026-08-21T06:34:49.607210+00:00
-PrizePicks,PGA,255038,Rory McIlroy,G,,Birdies Or Better,4.5,True,goblin,pre_game,2026-08-21T10:47:00.000-04:00,13984680,2026-08-21T06:34:49.607214+00:00
-PrizePicks,PGA,267953,Xander Schauffele,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T10:47:00.000-04:00,13984698,2026-08-21T06:34:49.607218+00:00
-PrizePicks,PGA,255038,Rory McIlroy,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13989636,2026-08-21T06:34:49.607221+00:00
-PrizePicks,PGA,267953,Xander Schauffele,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13989642,2026-08-21T06:34:49.607224+00:00
-PrizePicks,PGA,330364,Nicolai Højgaard,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:05:00.000-04:00,13984694,2026-08-21T06:34:49.607227+00:00
-PrizePicks,PGA,267947,Bud Cauley,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:05:00.000-04:00,13985227,2026-08-21T06:34:49.607230+00:00
-PrizePicks,PGA,330364,Nicolai Højgaard,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T11:05:00.000-04:00,13984703,2026-08-21T06:34:49.607233+00:00
-PrizePicks,PGA,330364,Nicolai Højgaard,G,,Fairways Hit,8,False,standard,pre_game,2026-08-21T11:05:00.000-04:00,13990805,2026-08-21T06:34:49.607237+00:00
-PrizePicks,PGA,330364,Nicolai Højgaard,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:05:00.000-04:00,13985161,2026-08-21T06:34:49.607240+00:00
-PrizePicks,PGA,267947,Bud Cauley,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:05:00.000-04:00,13988590,2026-08-21T06:34:49.607243+00:00
-PrizePicks,PGA,330364,Nicolai Højgaard,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:05:00.000-04:00,13988600,2026-08-21T06:34:49.607247+00:00
-PrizePicks,PGA,267947,Bud Cauley,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T11:05:00.000-04:00,13984676,2026-08-21T06:34:49.607250+00:00
-PrizePicks,PGA,255037,J.J. Spaun,G,,Strokes,68,True,standard,pre_game,2026-08-21T11:16:00.000-04:00,13984664,2026-08-21T06:34:49.607253+00:00
-PrizePicks,PGA,255020,Viktor Hovland,G,,Strokes,68,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13988272,2026-08-21T06:34:49.607256+00:00
-PrizePicks,PGA,255020,Viktor Hovland,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T11:16:00.000-04:00,13985087,2026-08-21T06:34:49.607260+00:00
-PrizePicks,PGA,255037,J.J. Spaun,G,,Pars,11.5,True,standard,pre_game,2026-08-21T11:16:00.000-04:00,13984667,2026-08-21T06:34:49.607263+00:00
-PrizePicks,PGA,255020,Viktor Hovland,G,,Pars,11,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13989921,2026-08-21T06:34:49.607266+00:00
-PrizePicks,PGA,255037,J.J. Spaun,G,,Fairways Hit,9.5,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13990799,2026-08-21T06:34:49.607268+00:00
-PrizePicks,PGA,255020,Viktor Hovland,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13990814,2026-08-21T06:34:49.607271+00:00
-PrizePicks,PGA,255037,J.J. Spaun,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:16:00.000-04:00,13984661,2026-08-21T06:34:49.607274+00:00
-PrizePicks,PGA,255020,Viktor Hovland,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:16:00.000-04:00,13990893,2026-08-21T06:34:49.607279+00:00
-PrizePicks,PGA,255037,J.J. Spaun,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13988591,2026-08-21T06:34:49.607282+00:00
-PrizePicks,PGA,255037,J.J. Spaun,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13989628,2026-08-21T06:34:49.607285+00:00
-PrizePicks,PGA,255020,Viktor Hovland,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13989641,2026-08-21T06:34:49.607287+00:00
-PrizePicks,PGA,266546,J.T. Poston,G,,Strokes,69,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13988261,2026-08-21T06:34:49.607290+00:00
-PrizePicks,PGA,267952,Kurt Kitayama,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:27:00.000-04:00,13984696,2026-08-21T06:34:49.607294+00:00
-PrizePicks,PGA,267952,Kurt Kitayama,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T11:27:00.000-04:00,13985150,2026-08-21T06:34:49.607297+00:00
-PrizePicks,PGA,266546,J.T. Poston,G,,Pars,11.5,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13989913,2026-08-21T06:34:49.607300+00:00
-PrizePicks,PGA,266546,J.T. Poston,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13990800,2026-08-21T06:34:49.607303+00:00
-PrizePicks,PGA,267952,Kurt Kitayama,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T11:27:00.000-04:00,13985228,2026-08-21T06:34:49.607306+00:00
-PrizePicks,PGA,267952,Kurt Kitayama,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:27:00.000-04:00,13984686,2026-08-21T06:34:49.607313+00:00
-PrizePicks,PGA,266546,J.T. Poston,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13988592,2026-08-21T06:34:49.607316+00:00
-PrizePicks,PGA,267952,Kurt Kitayama,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13988595,2026-08-21T06:34:49.607319+00:00
-PrizePicks,PGA,266546,J.T. Poston,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T11:27:00.000-04:00,13984693,2026-08-21T06:34:49.607322+00:00
-PrizePicks,PGA,266546,J.T. Poston,G,,Bogeys or Worse,2.5,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13989629,2026-08-21T06:34:49.607326+00:00
-PrizePicks,PGA,267948,Ryan Gerard,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13984700,2026-08-21T06:34:49.607329+00:00
-PrizePicks,PGA,266545,Min Woo Lee,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13985229,2026-08-21T06:34:49.607332+00:00
-PrizePicks,PGA,266545,Min Woo Lee,G,,Pars,11.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13984675,2026-08-21T06:34:49.607335+00:00
-PrizePicks,PGA,267948,Ryan Gerard,G,,Pars,11.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13985147,2026-08-21T06:34:49.607339+00:00
-PrizePicks,PGA,267948,Ryan Gerard,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13990809,2026-08-21T06:34:49.607342+00:00
-PrizePicks,PGA,266545,Min Woo Lee,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13985155,2026-08-21T06:34:49.607347+00:00
-PrizePicks,PGA,266545,Min Woo Lee,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:38:00.000-04:00,13985149,2026-08-21T06:34:49.607351+00:00
-PrizePicks,PGA,267948,Ryan Gerard,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:38:00.000-04:00,13985198,2026-08-21T06:34:49.607354+00:00
-PrizePicks,PGA,266545,Min Woo Lee,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13988598,2026-08-21T06:34:49.607357+00:00
-PrizePicks,PGA,267948,Ryan Gerard,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13988606,2026-08-21T06:34:49.607359+00:00
-PrizePicks,PGA,266545,Min Woo Lee,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13989634,2026-08-21T06:34:49.607362+00:00
-PrizePicks,PGA,267948,Ryan Gerard,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13989638,2026-08-21T06:34:49.607365+00:00
-PrizePicks,PGA,255013,Chris Gotterup,G,,Strokes,68,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13988260,2026-08-21T06:34:49.607369+00:00
-PrizePicks,PGA,255034,Tommy Fleetwood,G,,Strokes,67.5,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13988271,2026-08-21T06:34:49.607372+00:00
-PrizePicks,PGA,255034,Tommy Fleetwood,G,,Greens In Regulation,13,True,standard,pre_game,2026-08-21T11:49:00.000-04:00,13984677,2026-08-21T06:34:49.607374+00:00
-PrizePicks,PGA,255013,Chris Gotterup,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T11:49:00.000-04:00,13984670,2026-08-21T06:34:49.607378+00:00
-PrizePicks,PGA,255034,Tommy Fleetwood,G,,Pars,12,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13989920,2026-08-21T06:34:49.607381+00:00
-PrizePicks,PGA,255013,Chris Gotterup,G,,Pars,11,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13989912,2026-08-21T06:34:49.607384+00:00
-PrizePicks,PGA,255034,Tommy Fleetwood,G,,Fairways Hit,10,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13990813,2026-08-21T06:34:49.607386+00:00
-PrizePicks,PGA,255013,Chris Gotterup,G,,Fairways Hit,8,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13990798,2026-08-21T06:34:49.607389+00:00
-PrizePicks,PGA,255034,Tommy Fleetwood,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:49:00.000-04:00,13985082,2026-08-21T06:34:49.607392+00:00
-PrizePicks,PGA,255013,Chris Gotterup,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T11:49:00.000-04:00,13985159,2026-08-21T06:34:49.607395+00:00
-PrizePicks,PGA,255013,Chris Gotterup,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13989626,2026-08-21T06:34:49.607397+00:00
-PrizePicks,PGA,255034,Tommy Fleetwood,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13989640,2026-08-21T06:34:49.607400+00:00
-PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Strokes,68,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13988264,2026-08-21T06:34:49.607403+00:00
-PrizePicks,PGA,255039,Scottie Scheffler,G,,Strokes,66.5,True,standard,pre_game,2026-08-21T12:07:00.000-04:00,13985145,2026-08-21T06:34:49.607408+00:00
-PrizePicks,PGA,255039,Scottie Scheffler,G,,Greens In Regulation,13.5,True,standard,pre_game,2026-08-21T12:07:00.000-04:00,13984669,2026-08-21T06:34:49.607411+00:00
-PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Pars,11.5,True,standard,pre_game,2026-08-21T12:07:00.000-04:00,13985083,2026-08-21T06:34:49.607414+00:00
-PrizePicks,PGA,255039,Scottie Scheffler,G,,Pars,11.5,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13989919,2026-08-21T06:34:49.607418+00:00
-PrizePicks,PGA,255039,Scottie Scheffler,G,,Fairways Hit,9.5,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13990811,2026-08-21T06:34:49.607421+00:00
-PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13990803,2026-08-21T06:34:49.607424+00:00
-PrizePicks,PGA,255039,Scottie Scheffler,G,,Birdies Or Better,5.5,True,demon,pre_game,2026-08-21T12:07:00.000-04:00,13984666,2026-08-21T06:34:49.607429+00:00
-PrizePicks,PGA,255039,Scottie Scheffler,G,,Birdies Or Better,5,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13988608,2026-08-21T06:34:49.607432+00:00
-PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T12:07:00.000-04:00,13984678,2026-08-21T06:34:49.607435+00:00
-PrizePicks,PGA,255039,Scottie Scheffler,G,,Birdies Or Better,4.5,True,goblin,pre_game,2026-08-21T12:07:00.000-04:00,13990886,2026-08-21T06:34:49.607437+00:00
-PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13989632,2026-08-21T06:34:49.607441+00:00
-PrizePicks,PGA,255039,Scottie Scheffler,G,,Bogeys or Worse,1.5,True,standard,pre_game,2026-08-21T12:07:00.000-04:00,13984701,2026-08-21T06:34:49.607444+00:00
-PrizePicks,PGA,255014,Jacob Bridgeman,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T12:18:00.000-04:00,13984660,2026-08-21T06:34:49.607447+00:00
-PrizePicks,PGA,255032,Russell Henley,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13988268,2026-08-21T06:34:49.607450+00:00
-PrizePicks,PGA,255032,Russell Henley,G,,Pars,12,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13989917,2026-08-21T06:34:49.607453+00:00
-PrizePicks,PGA,255014,Jacob Bridgeman,G,,Pars,11.5,True,standard,pre_game,2026-08-21T12:18:00.000-04:00,13984684,2026-08-21T06:34:49.607456+00:00
-PrizePicks,PGA,255032,Russell Henley,G,,Fairways Hit,10,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13990808,2026-08-21T06:34:49.607458+00:00
-PrizePicks,PGA,255014,Jacob Bridgeman,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T12:18:00.000-04:00,13984685,2026-08-21T06:34:49.607461+00:00
-PrizePicks,PGA,255032,Russell Henley,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T12:18:00.000-04:00,13990881,2026-08-21T06:34:49.607464+00:00
-PrizePicks,PGA,255014,Jacob Bridgeman,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13988593,2026-08-21T06:34:49.607467+00:00
-PrizePicks,PGA,255032,Russell Henley,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13988605,2026-08-21T06:34:49.607471+00:00
-PrizePicks,PGA,255032,Russell Henley,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T12:18:00.000-04:00,13984663,2026-08-21T06:34:49.607474+00:00
-PrizePicks,PGA,255014,Jacob Bridgeman,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T12:18:00.000-04:00,13984674,2026-08-21T06:34:49.607476+00:00
-PrizePicks,PGA,255014,Jacob Bridgeman,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13989630,2026-08-21T06:34:49.607487+00:00
-PrizePicks,PGA,255032,Russell Henley,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13989637,2026-08-21T06:34:49.607491+00:00
-PrizePicks,PGA,262913,Matthew McCarty,G,,Strokes,69.5,True,standard,pre_game,2026-08-21T12:29:00.000-04:00,13984681,2026-08-21T06:34:49.607493+00:00
-PrizePicks,PGA,255031,Maverick McNealy,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T12:29:00.000-04:00,13985157,2026-08-21T06:34:49.607496+00:00
-PrizePicks,PGA,255031,Maverick McNealy,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T12:29:00.000-04:00,13984689,2026-08-21T06:34:49.607499+00:00
-PrizePicks,PGA,255031,Maverick McNealy,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T12:29:00.000-04:00,13988597,2026-08-21T06:34:49.607502+00:00
-PrizePicks,PGA,262913,Matthew McCarty,G,,Birdies Or Better,3.5,True,standard,pre_game,2026-08-21T12:29:00.000-04:00,13985158,2026-08-21T06:34:49.607505+00:00
-PrizePicks,PGA,255029,Justin Thomas,G,,Strokes,68,False,standard,pre_game,2026-08-21T12:40:00.000-04:00,13988263,2026-08-21T06:34:49.607509+00:00
-PrizePicks,PGA,255029,Justin Thomas,G,,Pars,11.5,True,standard,pre_game,2026-08-21T12:40:00.000-04:00,13984688,2026-08-21T06:34:49.607512+00:00
-PrizePicks,PGA,255029,Justin Thomas,G,,Fairways Hit,8.5,False,standard,pre_game,2026-08-21T12:40:00.000-04:00,13990802,2026-08-21T06:34:49.607515+00:00
-PrizePicks,PGA,255029,Justin Thomas,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T12:40:00.000-04:00,13985160,2026-08-21T06:34:49.607518+00:00
-PrizePicks,PGA,255029,Justin Thomas,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T12:40:00.000-04:00,13989631,2026-08-21T06:34:49.607520+00:00
-PrizePicks,PGA,255033,Sepp Straka,G,,Strokes,69.5,False,standard,pre_game,2026-08-21T12:51:00.000-04:00,13988270,2026-08-21T06:34:49.607523+00:00
-PrizePicks,PGA,255015,Sungjae Im,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T12:51:00.000-04:00,13984679,2026-08-21T06:34:49.607526+00:00
-PrizePicks,PGA,255033,Sepp Straka,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T12:51:00.000-04:00,13990812,2026-08-21T06:34:49.607528+00:00
-PrizePicks,PGA,255015,Sungjae Im,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T12:51:00.000-04:00,13988610,2026-08-21T06:34:49.607530+00:00
-PrizePicks,PGA,255015,Sungjae Im,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T12:51:00.000-04:00,13985146,2026-08-21T06:34:49.607533+00:00
-PrizePicks,PGA,255033,Sepp Straka,G,,Birdies Or Better,3.5,False,standard,pre_game,2026-08-21T12:51:00.000-04:00,13988609,2026-08-21T06:34:49.607537+00:00
-PrizePicks,PGA,262008,Gary Woodland,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T13:20:00.000-04:00,13990922,2026-08-21T06:34:49.607540+00:00
-PrizePicks,PGA,262008,Gary Woodland,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T13:20:00.000-04:00,13990884,2026-08-21T06:34:49.607543+00:00
-PrizePicks,PGA,255021,Collin Morikawa,G,,Strokes,68,False,standard,pre_game,2026-08-21T13:31:00.000-04:00,13993361,2026-08-21T06:34:49.607546+00:00
-PrizePicks,PGA,332364,Ludvig Åberg,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T13:31:00.000-04:00,13990898,2026-08-21T06:34:49.607549+00:00
-PrizePicks,PGA,255021,Collin Morikawa,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T13:31:00.000-04:00,13990897,2026-08-21T06:34:49.607552+00:00
-PrizePicks,PGA,332364,Ludvig Åberg,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T13:31:00.000-04:00,13990899,2026-08-21T06:34:49.607554+00:00
-PrizePicks,PGA,298363,Ryan Fox,G,,Strokes,69,False,standard,pre_game,2026-08-21T13:42:00.000-04:00,13993555,2026-08-21T06:34:49.607557+00:00
-PrizePicks,PGA,70184,Tom Kim,G,,Strokes,68,False,standard,pre_game,2026-08-21T13:42:00.000-04:00,13993556,2026-08-21T06:34:49.607560+00:00
-PrizePicks,PGA,255036,Justin Rose,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T13:53:00.000-04:00,13990891,2026-08-21T06:34:49.607563+00:00
-PrizePicks,PGA,262019,Alex Smalley,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T13:53:00.000-04:00,13991118,2026-08-21T06:34:49.607567+00:00
-PrizePicks,PGA,262019,Alex Smalley,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T13:53:00.000-04:00,13991826,2026-08-21T06:34:49.607570+00:00
-PrizePicks,PGA,255036,Justin Rose,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T13:53:00.000-04:00,13990921,2026-08-21T06:34:49.607573+00:00
-PrizePicks,PGA,255036,Justin Rose,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T13:53:00.000-04:00,13991137,2026-08-21T06:34:49.607575+00:00
-PrizePicks,PGA,315863,Alex Fitzpatrick,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T14:11:00.000-04:00,13993553,2026-08-21T06:34:49.607578+00:00
-PrizePicks,PGA,292438,Kristoffer Reitan,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T14:11:00.000-04:00,13993554,2026-08-21T06:34:49.607581+00:00
-PrizePicks,PGA,255012,Akshay Bhatia,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T14:22:00.000-04:00,13993552,2026-08-21T06:34:49.607585+00:00
-PrizePicks,PGA,255019,Hideki Matsuyama,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T14:22:00.000-04:00,13990895,2026-08-21T06:34:49.607588+00:00
-PrizePicks,PGA,255019,Hideki Matsuyama,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T14:22:00.000-04:00,13990890,2026-08-21T06:34:49.607590+00:00
-PrizePicks,PGA,267946,Wyndham Clark,G,,Strokes,68,False,standard,pre_game,2026-08-21T14:33:00.000-04:00,13993362,2026-08-21T06:34:49.607593+00:00
-PrizePicks,PGA,255024,Sam Burns,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T14:33:00.000-04:00,13991432,2026-08-21T06:34:49.607597+00:00
-PrizePicks,PGA,267946,Wyndham Clark,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T14:33:00.000-04:00,13990887,2026-08-21T06:34:49.607599+00:00
-PrizePicks,PGA,255024,Sam Burns,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T14:33:00.000-04:00,13990917,2026-08-21T06:34:49.607602+00:00
-PrizePicks,PGA,267944,Si Woo Kim,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T14:44:00.000-04:00,13990883,2026-08-21T06:34:49.607604+00:00
-PrizePicks,PGA,255028,Cameron Young,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T14:44:00.000-04:00,13990894,2026-08-21T06:34:49.607607+00:00
-PrizePicks,PGA,267944,Si Woo Kim,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T14:44:00.000-04:00,13990885,2026-08-21T06:34:49.607609+00:00
-PrizePicks,PGA,255028,Cameron Young,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T14:44:00.000-04:00,13990888,2026-08-21T06:34:49.607612+00:00
-PrizePicks,PGA,262009,Eric Cole,G,,Strokes,69,False,standard,pre_game,2026-08-21T14:55:00.000-04:00,13993550,2026-08-21T06:34:49.607616+00:00
-PrizePicks,PGA,273396,Michael Brennan,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T14:55:00.000-04:00,13993551,2026-08-21T06:34:49.607618+00:00
+PrizePicks,PGA,262010,Ryo Hisatsune,G,,Strokes,69,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13988269,2026-08-21T07:35:46.271418+00:00
+PrizePicks,PGA,255022,Patrick Cantlay,G,,Strokes,68,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13988267,2026-08-21T07:35:46.271431+00:00
+PrizePicks,PGA,262010,Ryo Hisatsune,G,,Pars,12,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13989918,2026-08-21T07:35:46.271437+00:00
+PrizePicks,PGA,255022,Patrick Cantlay,G,,Pars,11.5,True,standard,pre_game,2026-08-21T10:03:00.000-04:00,13984712,2026-08-21T07:35:46.271440+00:00
+PrizePicks,PGA,262010,Ryo Hisatsune,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13990810,2026-08-21T07:35:46.271443+00:00
+PrizePicks,PGA,255022,Patrick Cantlay,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T10:03:00.000-04:00,13985197,2026-08-21T07:35:46.271447+00:00
+PrizePicks,PGA,255022,Patrick Cantlay,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T10:03:00.000-04:00,13985152,2026-08-21T07:35:46.271453+00:00
+PrizePicks,PGA,262010,Ryo Hisatsune,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13988607,2026-08-21T07:35:46.271456+00:00
+PrizePicks,PGA,262010,Ryo Hisatsune,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T10:03:00.000-04:00,13984665,2026-08-21T07:35:46.271459+00:00
+PrizePicks,PGA,262010,Ryo Hisatsune,G,,Bogeys or Worse,2.5,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13989639,2026-08-21T07:35:46.271462+00:00
+PrizePicks,PGA,255022,Patrick Cantlay,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:03:00.000-04:00,13989635,2026-08-21T07:35:46.271464+00:00
+PrizePicks,PGA,267951,Nicolas Echavarria,G,,Strokes,69,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13988266,2026-08-21T07:35:46.271467+00:00
+PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13988265,2026-08-21T07:35:46.271470+00:00
+PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Pars,11.5,True,standard,pre_game,2026-08-21T10:14:00.000-04:00,13985151,2026-08-21T07:35:46.271472+00:00
+PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13990804,2026-08-21T07:35:46.271475+00:00
+PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T10:14:00.000-04:00,13988707,2026-08-21T07:35:46.271478+00:00
+PrizePicks,PGA,267951,Nicolas Echavarria,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13988599,2026-08-21T07:35:46.271483+00:00
+PrizePicks,PGA,267951,Nicolas Echavarria,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T10:14:00.000-04:00,13985144,2026-08-21T07:35:46.271486+00:00
+PrizePicks,PGA,262005,Michael Thorbjornsen,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:14:00.000-04:00,13989633,2026-08-21T07:35:46.271488+00:00
+PrizePicks,PGA,267945,Alex Noren,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T10:25:00.000-04:00,13984690,2026-08-21T07:35:46.271491+00:00
+PrizePicks,PGA,292436,Jake Knapp,G,,Strokes,68,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13988262,2026-08-21T07:35:46.271494+00:00
+PrizePicks,PGA,267945,Alex Noren,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T10:25:00.000-04:00,13984692,2026-08-21T07:35:46.271497+00:00
+PrizePicks,PGA,267945,Alex Noren,G,,Pars,12,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13989911,2026-08-21T07:35:46.271499+00:00
+PrizePicks,PGA,292436,Jake Knapp,G,,Pars,11,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13989914,2026-08-21T07:35:46.271502+00:00
+PrizePicks,PGA,267945,Alex Noren,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13990797,2026-08-21T07:35:46.271505+00:00
+PrizePicks,PGA,292436,Jake Knapp,G,,Fairways Hit,8,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13990801,2026-08-21T07:35:46.271508+00:00
+PrizePicks,PGA,292436,Jake Knapp,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T10:25:00.000-04:00,13984687,2026-08-21T07:35:46.271513+00:00
+PrizePicks,PGA,267945,Alex Noren,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13988589,2026-08-21T07:35:46.271515+00:00
+PrizePicks,PGA,267945,Alex Noren,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T10:25:00.000-04:00,13984662,2026-08-21T07:35:46.271518+00:00
+PrizePicks,PGA,292436,Jake Knapp,G,,Bogeys or Worse,2.5,True,standard,pre_game,2026-08-21T10:25:00.000-04:00,13985154,2026-08-21T07:35:46.271521+00:00
+PrizePicks,PGA,267945,Alex Noren,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:25:00.000-04:00,13989625,2026-08-21T07:35:46.271524+00:00
+PrizePicks,PGA,298361,Rickie Fowler,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T10:36:00.000-04:00,13984683,2026-08-21T07:35:46.271527+00:00
+PrizePicks,PGA,284270,Robert MacIntyre,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T10:36:00.000-04:00,13985143,2026-08-21T07:35:46.271529+00:00
+PrizePicks,PGA,284270,Robert MacIntyre,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T10:36:00.000-04:00,13984697,2026-08-21T07:35:46.271532+00:00
+PrizePicks,PGA,284270,Robert MacIntyre,G,,Pars,11,False,standard,pre_game,2026-08-21T10:36:00.000-04:00,13989915,2026-08-21T07:35:46.271535+00:00
+PrizePicks,PGA,284270,Robert MacIntyre,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T10:36:00.000-04:00,13990806,2026-08-21T07:35:46.271538+00:00
+PrizePicks,PGA,298361,Rickie Fowler,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T10:36:00.000-04:00,13984702,2026-08-21T07:35:46.271542+00:00
+PrizePicks,PGA,298361,Rickie Fowler,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T10:36:00.000-04:00,13988602,2026-08-21T07:35:46.271545+00:00
+PrizePicks,PGA,284270,Robert MacIntyre,G,,Bogeys or Worse,2.5,True,standard,pre_game,2026-08-21T10:36:00.000-04:00,13984691,2026-08-21T07:35:46.271548+00:00
+PrizePicks,PGA,267953,Xander Schauffele,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T10:47:00.000-04:00,13984699,2026-08-21T07:35:46.271551+00:00
+PrizePicks,PGA,255038,Rory McIlroy,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T10:47:00.000-04:00,13985148,2026-08-21T07:35:46.271553+00:00
+PrizePicks,PGA,267953,Xander Schauffele,G,,Pars,11.5,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13989922,2026-08-21T07:35:46.271556+00:00
+PrizePicks,PGA,255038,Rory McIlroy,G,,Pars,11,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13989916,2026-08-21T07:35:46.271559+00:00
+PrizePicks,PGA,267953,Xander Schauffele,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T10:47:00.000-04:00,13985088,2026-08-21T07:35:46.271562+00:00
+PrizePicks,PGA,255038,Rory McIlroy,G,,Fairways Hit,8,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13990807,2026-08-21T07:35:46.271564+00:00
+PrizePicks,PGA,255038,Rory McIlroy,G,,Birdies Or Better,5,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13988604,2026-08-21T07:35:46.271567+00:00
+PrizePicks,PGA,255038,Rory McIlroy,G,,Birdies Or Better,4.5,True,goblin,pre_game,2026-08-21T10:47:00.000-04:00,13984680,2026-08-21T07:35:46.271572+00:00
+PrizePicks,PGA,267953,Xander Schauffele,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T10:47:00.000-04:00,13984698,2026-08-21T07:35:46.271574+00:00
+PrizePicks,PGA,255038,Rory McIlroy,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13989636,2026-08-21T07:35:46.271577+00:00
+PrizePicks,PGA,267953,Xander Schauffele,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T10:47:00.000-04:00,13989642,2026-08-21T07:35:46.271580+00:00
+PrizePicks,PGA,330364,Nicolai Højgaard,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:05:00.000-04:00,13984694,2026-08-21T07:35:46.271582+00:00
+PrizePicks,PGA,267947,Bud Cauley,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:05:00.000-04:00,13985227,2026-08-21T07:35:46.271585+00:00
+PrizePicks,PGA,330364,Nicolai Højgaard,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T11:05:00.000-04:00,13984703,2026-08-21T07:35:46.271588+00:00
+PrizePicks,PGA,330364,Nicolai Højgaard,G,,Fairways Hit,8,False,standard,pre_game,2026-08-21T11:05:00.000-04:00,13990805,2026-08-21T07:35:46.271591+00:00
+PrizePicks,PGA,330364,Nicolai Højgaard,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:05:00.000-04:00,13985161,2026-08-21T07:35:46.271594+00:00
+PrizePicks,PGA,267947,Bud Cauley,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:05:00.000-04:00,13988590,2026-08-21T07:35:46.271597+00:00
+PrizePicks,PGA,330364,Nicolai Højgaard,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:05:00.000-04:00,13988600,2026-08-21T07:35:46.271601+00:00
+PrizePicks,PGA,267947,Bud Cauley,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T11:05:00.000-04:00,13984676,2026-08-21T07:35:46.271604+00:00
+PrizePicks,PGA,255037,J.J. Spaun,G,,Strokes,68,True,standard,pre_game,2026-08-21T11:16:00.000-04:00,13984664,2026-08-21T07:35:46.271606+00:00
+PrizePicks,PGA,255020,Viktor Hovland,G,,Strokes,68,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13988272,2026-08-21T07:35:46.271609+00:00
+PrizePicks,PGA,255020,Viktor Hovland,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T11:16:00.000-04:00,13985087,2026-08-21T07:35:46.271617+00:00
+PrizePicks,PGA,255037,J.J. Spaun,G,,Pars,11.5,True,standard,pre_game,2026-08-21T11:16:00.000-04:00,13984667,2026-08-21T07:35:46.271620+00:00
+PrizePicks,PGA,255020,Viktor Hovland,G,,Pars,11,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13989921,2026-08-21T07:35:46.271622+00:00
+PrizePicks,PGA,255037,J.J. Spaun,G,,Fairways Hit,9.5,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13990799,2026-08-21T07:35:46.271625+00:00
+PrizePicks,PGA,255020,Viktor Hovland,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13990814,2026-08-21T07:35:46.271628+00:00
+PrizePicks,PGA,255037,J.J. Spaun,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:16:00.000-04:00,13984661,2026-08-21T07:35:46.271631+00:00
+PrizePicks,PGA,255020,Viktor Hovland,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:16:00.000-04:00,13990893,2026-08-21T07:35:46.271635+00:00
+PrizePicks,PGA,255037,J.J. Spaun,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13988591,2026-08-21T07:35:46.271638+00:00
+PrizePicks,PGA,255037,J.J. Spaun,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13989628,2026-08-21T07:35:46.271640+00:00
+PrizePicks,PGA,255020,Viktor Hovland,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:16:00.000-04:00,13989641,2026-08-21T07:35:46.271643+00:00
+PrizePicks,PGA,266546,J.T. Poston,G,,Strokes,69,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13988261,2026-08-21T07:35:46.271646+00:00
+PrizePicks,PGA,267952,Kurt Kitayama,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:27:00.000-04:00,13984696,2026-08-21T07:35:46.271649+00:00
+PrizePicks,PGA,267952,Kurt Kitayama,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T11:27:00.000-04:00,13985150,2026-08-21T07:35:46.271651+00:00
+PrizePicks,PGA,266546,J.T. Poston,G,,Pars,11.5,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13989913,2026-08-21T07:35:46.271654+00:00
+PrizePicks,PGA,266546,J.T. Poston,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13990800,2026-08-21T07:35:46.271657+00:00
+PrizePicks,PGA,267952,Kurt Kitayama,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T11:27:00.000-04:00,13985228,2026-08-21T07:35:46.271659+00:00
+PrizePicks,PGA,267952,Kurt Kitayama,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:27:00.000-04:00,13984686,2026-08-21T07:35:46.271664+00:00
+PrizePicks,PGA,266546,J.T. Poston,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13988592,2026-08-21T07:35:46.271667+00:00
+PrizePicks,PGA,267952,Kurt Kitayama,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13988595,2026-08-21T07:35:46.271669+00:00
+PrizePicks,PGA,266546,J.T. Poston,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T11:27:00.000-04:00,13984693,2026-08-21T07:35:46.271672+00:00
+PrizePicks,PGA,266546,J.T. Poston,G,,Bogeys or Worse,2.5,False,standard,pre_game,2026-08-21T11:27:00.000-04:00,13989629,2026-08-21T07:35:46.271675+00:00
+PrizePicks,PGA,267948,Ryan Gerard,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13984700,2026-08-21T07:35:46.271678+00:00
+PrizePicks,PGA,266545,Min Woo Lee,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13985229,2026-08-21T07:35:46.271680+00:00
+PrizePicks,PGA,266545,Min Woo Lee,G,,Pars,11.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13984675,2026-08-21T07:35:46.271683+00:00
+PrizePicks,PGA,267948,Ryan Gerard,G,,Pars,11.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13985147,2026-08-21T07:35:46.271686+00:00
+PrizePicks,PGA,267948,Ryan Gerard,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13990809,2026-08-21T07:35:46.271688+00:00
+PrizePicks,PGA,266545,Min Woo Lee,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T11:38:00.000-04:00,13985155,2026-08-21T07:35:46.271692+00:00
+PrizePicks,PGA,266545,Min Woo Lee,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:38:00.000-04:00,13985149,2026-08-21T07:35:46.271695+00:00
+PrizePicks,PGA,267948,Ryan Gerard,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:38:00.000-04:00,13985198,2026-08-21T07:35:46.271698+00:00
+PrizePicks,PGA,266545,Min Woo Lee,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13988598,2026-08-21T07:35:46.271702+00:00
+PrizePicks,PGA,267948,Ryan Gerard,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13988606,2026-08-21T07:35:46.271705+00:00
+PrizePicks,PGA,266545,Min Woo Lee,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13989634,2026-08-21T07:35:46.271708+00:00
+PrizePicks,PGA,267948,Ryan Gerard,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:38:00.000-04:00,13989638,2026-08-21T07:35:46.271710+00:00
+PrizePicks,PGA,255013,Chris Gotterup,G,,Strokes,68,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13988260,2026-08-21T07:35:46.271713+00:00
+PrizePicks,PGA,255034,Tommy Fleetwood,G,,Strokes,67.5,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13988271,2026-08-21T07:35:46.271716+00:00
+PrizePicks,PGA,255034,Tommy Fleetwood,G,,Greens In Regulation,13,True,standard,pre_game,2026-08-21T11:49:00.000-04:00,13984677,2026-08-21T07:35:46.271719+00:00
+PrizePicks,PGA,255013,Chris Gotterup,G,,Greens In Regulation,12.5,True,standard,pre_game,2026-08-21T11:49:00.000-04:00,13984670,2026-08-21T07:35:46.271723+00:00
+PrizePicks,PGA,255034,Tommy Fleetwood,G,,Pars,12,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13989920,2026-08-21T07:35:46.271725+00:00
+PrizePicks,PGA,255013,Chris Gotterup,G,,Pars,11,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13989912,2026-08-21T07:35:46.271728+00:00
+PrizePicks,PGA,255034,Tommy Fleetwood,G,,Fairways Hit,10,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13990813,2026-08-21T07:35:46.271731+00:00
+PrizePicks,PGA,255013,Chris Gotterup,G,,Fairways Hit,8,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13990798,2026-08-21T07:35:46.271733+00:00
+PrizePicks,PGA,255034,Tommy Fleetwood,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T11:49:00.000-04:00,13985082,2026-08-21T07:35:46.271736+00:00
+PrizePicks,PGA,255013,Chris Gotterup,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T11:49:00.000-04:00,13985159,2026-08-21T07:35:46.271739+00:00
+PrizePicks,PGA,255013,Chris Gotterup,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13989626,2026-08-21T07:35:46.271741+00:00
+PrizePicks,PGA,255034,Tommy Fleetwood,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T11:49:00.000-04:00,13989640,2026-08-21T07:35:46.271744+00:00
+PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Strokes,68,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13988264,2026-08-21T07:35:46.271746+00:00
+PrizePicks,PGA,255039,Scottie Scheffler,G,,Strokes,66.5,True,standard,pre_game,2026-08-21T12:07:00.000-04:00,13985145,2026-08-21T07:35:46.271751+00:00
+PrizePicks,PGA,255039,Scottie Scheffler,G,,Greens In Regulation,13.5,True,standard,pre_game,2026-08-21T12:07:00.000-04:00,13984669,2026-08-21T07:35:46.271754+00:00
+PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Pars,11.5,True,standard,pre_game,2026-08-21T12:07:00.000-04:00,13985083,2026-08-21T07:35:46.271756+00:00
+PrizePicks,PGA,255039,Scottie Scheffler,G,,Pars,11.5,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13989919,2026-08-21T07:35:46.271759+00:00
+PrizePicks,PGA,255039,Scottie Scheffler,G,,Fairways Hit,9.5,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13990811,2026-08-21T07:35:46.271762+00:00
+PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13990803,2026-08-21T07:35:46.271764+00:00
+PrizePicks,PGA,255039,Scottie Scheffler,G,,Birdies Or Better,5.5,True,demon,pre_game,2026-08-21T12:07:00.000-04:00,13984666,2026-08-21T07:35:46.271769+00:00
+PrizePicks,PGA,255039,Scottie Scheffler,G,,Birdies Or Better,5,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13988608,2026-08-21T07:35:46.271772+00:00
+PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T12:07:00.000-04:00,13984678,2026-08-21T07:35:46.271775+00:00
+PrizePicks,PGA,255039,Scottie Scheffler,G,,Birdies Or Better,4.5,True,goblin,pre_game,2026-08-21T12:07:00.000-04:00,13990886,2026-08-21T07:35:46.271778+00:00
+PrizePicks,PGA,298362,Matt Fitzpatrick,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T12:07:00.000-04:00,13989632,2026-08-21T07:35:46.271782+00:00
+PrizePicks,PGA,255039,Scottie Scheffler,G,,Bogeys or Worse,1.5,True,standard,pre_game,2026-08-21T12:07:00.000-04:00,13984701,2026-08-21T07:35:46.271785+00:00
+PrizePicks,PGA,255014,Jacob Bridgeman,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T12:18:00.000-04:00,13984660,2026-08-21T07:35:46.271787+00:00
+PrizePicks,PGA,255032,Russell Henley,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13988268,2026-08-21T07:35:46.271790+00:00
+PrizePicks,PGA,255032,Russell Henley,G,,Pars,12,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13989917,2026-08-21T07:35:46.271793+00:00
+PrizePicks,PGA,255014,Jacob Bridgeman,G,,Pars,11.5,True,standard,pre_game,2026-08-21T12:18:00.000-04:00,13984684,2026-08-21T07:35:46.271796+00:00
+PrizePicks,PGA,255032,Russell Henley,G,,Fairways Hit,10,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13990808,2026-08-21T07:35:46.271798+00:00
+PrizePicks,PGA,255014,Jacob Bridgeman,G,,Fairways Hit,8.5,True,standard,pre_game,2026-08-21T12:18:00.000-04:00,13984685,2026-08-21T07:35:46.271801+00:00
+PrizePicks,PGA,255032,Russell Henley,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T12:18:00.000-04:00,13990881,2026-08-21T07:35:46.271804+00:00
+PrizePicks,PGA,255014,Jacob Bridgeman,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13988593,2026-08-21T07:35:46.271806+00:00
+PrizePicks,PGA,255032,Russell Henley,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13988605,2026-08-21T07:35:46.271811+00:00
+PrizePicks,PGA,255032,Russell Henley,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T12:18:00.000-04:00,13984663,2026-08-21T07:35:46.271813+00:00
+PrizePicks,PGA,255014,Jacob Bridgeman,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T12:18:00.000-04:00,13984674,2026-08-21T07:35:46.271816+00:00
+PrizePicks,PGA,255014,Jacob Bridgeman,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13989630,2026-08-21T07:35:46.271819+00:00
+PrizePicks,PGA,255032,Russell Henley,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T12:18:00.000-04:00,13989637,2026-08-21T07:35:46.271821+00:00
+PrizePicks,PGA,262913,Matthew McCarty,G,,Strokes,69.5,True,standard,pre_game,2026-08-21T12:29:00.000-04:00,13984681,2026-08-21T07:35:46.271824+00:00
+PrizePicks,PGA,255031,Maverick McNealy,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T12:29:00.000-04:00,13985157,2026-08-21T07:35:46.271827+00:00
+PrizePicks,PGA,255031,Maverick McNealy,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T12:29:00.000-04:00,13984689,2026-08-21T07:35:46.271829+00:00
+PrizePicks,PGA,255031,Maverick McNealy,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T12:29:00.000-04:00,13988597,2026-08-21T07:35:46.271832+00:00
+PrizePicks,PGA,262913,Matthew McCarty,G,,Birdies Or Better,3.5,True,standard,pre_game,2026-08-21T12:29:00.000-04:00,13985158,2026-08-21T07:35:46.271836+00:00
+PrizePicks,PGA,255029,Justin Thomas,G,,Strokes,68,False,standard,pre_game,2026-08-21T12:40:00.000-04:00,13988263,2026-08-21T07:35:46.271840+00:00
+PrizePicks,PGA,255029,Justin Thomas,G,,Pars,11.5,True,standard,pre_game,2026-08-21T12:40:00.000-04:00,13984688,2026-08-21T07:35:46.271843+00:00
+PrizePicks,PGA,255029,Justin Thomas,G,,Fairways Hit,8.5,False,standard,pre_game,2026-08-21T12:40:00.000-04:00,13990802,2026-08-21T07:35:46.271845+00:00
+PrizePicks,PGA,255029,Justin Thomas,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T12:40:00.000-04:00,13985160,2026-08-21T07:35:46.271848+00:00
+PrizePicks,PGA,255029,Justin Thomas,G,,Bogeys or Worse,2,False,standard,pre_game,2026-08-21T12:40:00.000-04:00,13989631,2026-08-21T07:35:46.271850+00:00
+PrizePicks,PGA,255033,Sepp Straka,G,,Strokes,69.5,False,standard,pre_game,2026-08-21T12:51:00.000-04:00,13988270,2026-08-21T07:35:46.271853+00:00
+PrizePicks,PGA,255015,Sungjae Im,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T12:51:00.000-04:00,13984679,2026-08-21T07:35:46.271856+00:00
+PrizePicks,PGA,255033,Sepp Straka,G,,Fairways Hit,9,False,standard,pre_game,2026-08-21T12:51:00.000-04:00,13990812,2026-08-21T07:35:46.271859+00:00
+PrizePicks,PGA,255015,Sungjae Im,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T12:51:00.000-04:00,13988610,2026-08-21T07:35:46.271861+00:00
+PrizePicks,PGA,255015,Sungjae Im,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T12:51:00.000-04:00,13985146,2026-08-21T07:35:46.271864+00:00
+PrizePicks,PGA,255033,Sepp Straka,G,,Birdies Or Better,3.5,False,standard,pre_game,2026-08-21T12:51:00.000-04:00,13988609,2026-08-21T07:35:46.271868+00:00
+PrizePicks,PGA,262008,Gary Woodland,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T13:20:00.000-04:00,13990922,2026-08-21T07:35:46.271871+00:00
+PrizePicks,PGA,262008,Gary Woodland,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T13:20:00.000-04:00,13990884,2026-08-21T07:35:46.271874+00:00
+PrizePicks,PGA,255021,Collin Morikawa,G,,Strokes,68,False,standard,pre_game,2026-08-21T13:31:00.000-04:00,13993361,2026-08-21T07:35:46.271876+00:00
+PrizePicks,PGA,332364,Ludvig Åberg,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T13:31:00.000-04:00,13990898,2026-08-21T07:35:46.271879+00:00
+PrizePicks,PGA,255021,Collin Morikawa,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T13:31:00.000-04:00,13990897,2026-08-21T07:35:46.271882+00:00
+PrizePicks,PGA,332364,Ludvig Åberg,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T13:31:00.000-04:00,13990899,2026-08-21T07:35:46.271884+00:00
+PrizePicks,PGA,298363,Ryan Fox,G,,Strokes,69,False,standard,pre_game,2026-08-21T13:42:00.000-04:00,13993555,2026-08-21T07:35:46.271887+00:00
+PrizePicks,PGA,70184,Tom Kim,G,,Strokes,68,False,standard,pre_game,2026-08-21T13:42:00.000-04:00,13993556,2026-08-21T07:35:46.271890+00:00
+PrizePicks,PGA,255036,Justin Rose,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T13:53:00.000-04:00,13990891,2026-08-21T07:35:46.271892+00:00
+PrizePicks,PGA,262019,Alex Smalley,G,,Strokes,68.5,True,standard,pre_game,2026-08-21T13:53:00.000-04:00,13991118,2026-08-21T07:35:46.271897+00:00
+PrizePicks,PGA,262019,Alex Smalley,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T13:53:00.000-04:00,13991826,2026-08-21T07:35:46.271899+00:00
+PrizePicks,PGA,255036,Justin Rose,G,,Birdies Or Better,4,False,standard,pre_game,2026-08-21T13:53:00.000-04:00,13990921,2026-08-21T07:35:46.271902+00:00
+PrizePicks,PGA,255036,Justin Rose,G,,Birdies Or Better,3.5,True,goblin,pre_game,2026-08-21T13:53:00.000-04:00,13991137,2026-08-21T07:35:46.271905+00:00
+PrizePicks,PGA,315863,Alex Fitzpatrick,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T14:11:00.000-04:00,13993553,2026-08-21T07:35:46.271907+00:00
+PrizePicks,PGA,292438,Kristoffer Reitan,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T14:11:00.000-04:00,13993554,2026-08-21T07:35:46.271910+00:00
+PrizePicks,PGA,255012,Akshay Bhatia,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T14:22:00.000-04:00,13993552,2026-08-21T07:35:46.271914+00:00
+PrizePicks,PGA,255019,Hideki Matsuyama,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T14:22:00.000-04:00,13990895,2026-08-21T07:35:46.271917+00:00
+PrizePicks,PGA,255019,Hideki Matsuyama,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T14:22:00.000-04:00,13990890,2026-08-21T07:35:46.271919+00:00
+PrizePicks,PGA,267946,Wyndham Clark,G,,Strokes,68,False,standard,pre_game,2026-08-21T14:33:00.000-04:00,13993362,2026-08-21T07:35:46.271922+00:00
+PrizePicks,PGA,255024,Sam Burns,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T14:33:00.000-04:00,13991432,2026-08-21T07:35:46.271926+00:00
+PrizePicks,PGA,267946,Wyndham Clark,G,,Birdies Or Better,4.5,True,demon,pre_game,2026-08-21T14:33:00.000-04:00,13990887,2026-08-21T07:35:46.271929+00:00
+PrizePicks,PGA,255024,Sam Burns,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T14:33:00.000-04:00,13990917,2026-08-21T07:35:46.271932+00:00
+PrizePicks,PGA,267944,Si Woo Kim,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T14:44:00.000-04:00,13990883,2026-08-21T07:35:46.271934+00:00
+PrizePicks,PGA,255028,Cameron Young,G,,Strokes,67.5,True,standard,pre_game,2026-08-21T14:44:00.000-04:00,13990894,2026-08-21T07:35:46.271937+00:00
+PrizePicks,PGA,267944,Si Woo Kim,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T14:44:00.000-04:00,13990885,2026-08-21T07:35:46.271939+00:00
+PrizePicks,PGA,255028,Cameron Young,G,,Birdies Or Better,4.5,True,standard,pre_game,2026-08-21T14:44:00.000-04:00,13990888,2026-08-21T07:35:46.271942+00:00
+PrizePicks,PGA,262009,Eric Cole,G,,Strokes,69,False,standard,pre_game,2026-08-21T14:55:00.000-04:00,13993550,2026-08-21T07:35:46.271945+00:00
+PrizePicks,PGA,273396,Michael Brennan,G,,Strokes,68.5,False,standard,pre_game,2026-08-21T14:55:00.000-04:00,13993551,2026-08-21T07:35:46.271948+00:00
