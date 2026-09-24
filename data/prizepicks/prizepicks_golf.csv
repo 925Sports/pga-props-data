@@ -1,16 +1,16 @@
 source,league,player_id,player_name,position,team,stat_type,line_score,adjusted_odds,odds_type,status,start_time,data_id,scraped_at
-PrizePicks,PGA,347274,Scottie Scheffler + Sam Burns,G,,Holes Played,15.5,False,standard,pre_game,2026-09-24T12:35:00.000-04:00,15169626,2026-09-24T06:58:30.889543+00:00
-PrizePicks,PGA,347274,Scottie Scheffler + Sam Burns,G,,Holes Won,4.5,False,standard,pre_game,2026-09-24T12:35:00.000-04:00,15169616,2026-09-24T06:58:30.889562+00:00
-PrizePicks,PGA,347274,Scottie Scheffler + Sam Burns,G,,Holes Lost,2.5,False,standard,pre_game,2026-09-24T12:35:00.000-04:00,15169621,2026-09-24T06:58:30.889567+00:00
-PrizePicks,PGA,347275,Hideki Matsuyama + Ryo Hisatsune,G,,Holes Played,16.5,False,standard,pre_game,2026-09-24T12:53:00.000-04:00,15169627,2026-09-24T06:58:30.889570+00:00
-PrizePicks,PGA,347275,Hideki Matsuyama + Ryo Hisatsune,G,,Holes Won,3.5,False,standard,pre_game,2026-09-24T12:53:00.000-04:00,15169617,2026-09-24T06:58:30.889573+00:00
-PrizePicks,PGA,347275,Hideki Matsuyama + Ryo Hisatsune,G,,Holes Lost,3.5,False,standard,pre_game,2026-09-24T12:53:00.000-04:00,15178796,2026-09-24T06:58:30.889580+00:00
-PrizePicks,PGA,347276,Justin Thomas + Jackson Koivun,G,,Holes Played,16.5,False,standard,pre_game,2026-09-24T13:11:00.000-04:00,15169628,2026-09-24T06:58:30.889583+00:00
-PrizePicks,PGA,347276,Justin Thomas + Jackson Koivun,G,,Holes Won,4.5,False,standard,pre_game,2026-09-24T13:11:00.000-04:00,15178795,2026-09-24T06:58:30.889586+00:00
-PrizePicks,PGA,347276,Justin Thomas + Jackson Koivun,G,,Holes Lost,3,False,standard,pre_game,2026-09-24T13:11:00.000-04:00,15169623,2026-09-24T06:58:30.889589+00:00
-PrizePicks,PGA,347277,Wyndham Clark + Collin Morikawa,G,,Holes Played,16.5,False,standard,pre_game,2026-09-24T13:29:00.000-04:00,15169629,2026-09-24T06:58:30.889592+00:00
-PrizePicks,PGA,347277,Wyndham Clark + Collin Morikawa,G,,Holes Won,4,False,standard,pre_game,2026-09-24T13:29:00.000-04:00,15169619,2026-09-24T06:58:30.889594+00:00
-PrizePicks,PGA,347277,Wyndham Clark + Collin Morikawa,G,,Holes Lost,3,False,standard,pre_game,2026-09-24T13:29:00.000-04:00,15178797,2026-09-24T06:58:30.889597+00:00
-PrizePicks,PGA,347278,Tom Kim + Si Woo Kim,G,,Holes Played,16.5,False,standard,pre_game,2026-09-24T13:47:00.000-04:00,15169630,2026-09-24T06:58:30.889600+00:00
-PrizePicks,PGA,347278,Tom Kim + Si Woo Kim,G,,Holes Won,4,False,standard,pre_game,2026-09-24T13:47:00.000-04:00,15169620,2026-09-24T06:58:30.889603+00:00
-PrizePicks,PGA,347278,Tom Kim + Si Woo Kim,G,,Holes Lost,3.5,False,standard,pre_game,2026-09-24T13:47:00.000-04:00,15178798,2026-09-24T06:58:30.889605+00:00
+PrizePicks,PGA,347274,Scottie Scheffler + Sam Burns,G,,Holes Played,15.5,False,standard,pre_game,2026-09-24T12:35:00.000-04:00,15169626,2026-09-24T12:34:36.175547+00:00
+PrizePicks,PGA,347274,Scottie Scheffler + Sam Burns,G,,Holes Won,4.5,False,standard,pre_game,2026-09-24T12:35:00.000-04:00,15169616,2026-09-24T12:34:36.175572+00:00
+PrizePicks,PGA,347274,Scottie Scheffler + Sam Burns,G,,Holes Lost,2.5,False,standard,pre_game,2026-09-24T12:35:00.000-04:00,15169621,2026-09-24T12:34:36.175578+00:00
+PrizePicks,PGA,347275,Hideki Matsuyama + Ryo Hisatsune,G,,Holes Played,16.5,False,standard,pre_game,2026-09-24T12:53:00.000-04:00,15169627,2026-09-24T12:34:36.175581+00:00
+PrizePicks,PGA,347275,Hideki Matsuyama + Ryo Hisatsune,G,,Holes Won,3.5,False,standard,pre_game,2026-09-24T12:53:00.000-04:00,15169617,2026-09-24T12:34:36.175584+00:00
+PrizePicks,PGA,347275,Hideki Matsuyama + Ryo Hisatsune,G,,Holes Lost,3.5,False,standard,pre_game,2026-09-24T12:53:00.000-04:00,15178796,2026-09-24T12:34:36.175592+00:00
+PrizePicks,PGA,347276,Justin Thomas + Jackson Koivun,G,,Holes Played,16.5,False,standard,pre_game,2026-09-24T13:11:00.000-04:00,15169628,2026-09-24T12:34:36.175596+00:00
+PrizePicks,PGA,347276,Justin Thomas + Jackson Koivun,G,,Holes Won,4.5,False,standard,pre_game,2026-09-24T13:11:00.000-04:00,15178795,2026-09-24T12:34:36.175598+00:00
+PrizePicks,PGA,347276,Justin Thomas + Jackson Koivun,G,,Holes Lost,3,False,standard,pre_game,2026-09-24T13:11:00.000-04:00,15169623,2026-09-24T12:34:36.175602+00:00
+PrizePicks,PGA,347277,Wyndham Clark + Collin Morikawa,G,,Holes Played,16.5,False,standard,pre_game,2026-09-24T13:29:00.000-04:00,15169629,2026-09-24T12:34:36.175605+00:00
+PrizePicks,PGA,347277,Wyndham Clark + Collin Morikawa,G,,Holes Won,4,False,standard,pre_game,2026-09-24T13:29:00.000-04:00,15169619,2026-09-24T12:34:36.175608+00:00
+PrizePicks,PGA,347277,Wyndham Clark + Collin Morikawa,G,,Holes Lost,3,False,standard,pre_game,2026-09-24T13:29:00.000-04:00,15178797,2026-09-24T12:34:36.175611+00:00
+PrizePicks,PGA,347278,Tom Kim + Si Woo Kim,G,,Holes Played,16.5,False,standard,pre_game,2026-09-24T13:47:00.000-04:00,15169630,2026-09-24T12:34:36.175613+00:00
+PrizePicks,PGA,347278,Tom Kim + Si Woo Kim,G,,Holes Won,4,False,standard,pre_game,2026-09-24T13:47:00.000-04:00,15169620,2026-09-24T12:34:36.175617+00:00
+PrizePicks,PGA,347278,Tom Kim + Si Woo Kim,G,,Holes Lost,3.5,False,standard,pre_game,2026-09-24T13:47:00.000-04:00,15178798,2026-09-24T12:34:36.175620+00:00
