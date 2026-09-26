@@ -1,4 +1,27 @@
 source,league,player_id,player_name,position,team,stat_type,line_score,adjusted_odds,odds_type,status,start_time,data_id,scraped_at
-PrizePicks,PGA,347278,Tom Kim + Si Woo Kim,G,,Holes Played,16.5,False,standard,pre_game,2026-09-24T13:47:00.000-04:00,15190889,2026-09-24T17:39:22.827917+00:00
-PrizePicks,PGA,347278,Tom Kim + Si Woo Kim,G,,Holes Won,3.5,False,standard,pre_game,2026-09-24T13:47:00.000-04:00,15190887,2026-09-24T17:39:22.827940+00:00
-PrizePicks,PGA,347278,Tom Kim + Si Woo Kim,G,,Holes Lost,3,False,standard,pre_game,2026-09-24T13:47:00.000-04:00,15190888,2026-09-24T17:39:22.827945+00:00
+PrizePicks,EUROGOLF,344866,Matt FItzpatrick,G,,Birdies Or Better,5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238559,2026-09-26T00:16:46.365397+00:00
+PrizePicks,EUROGOLF,88732,Matt FItzpatrick,G,,Strokes,68,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238542,2026-09-26T00:16:46.365420+00:00
+PrizePicks,EUROGOLF,88259,Tommy Fleetwood,G,,Birdies Or Better,5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238539,2026-09-26T00:16:46.365428+00:00
+PrizePicks,EUROGOLF,88259,Tommy Fleetwood,G,,Strokes,68,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238543,2026-09-26T00:16:46.365431+00:00
+PrizePicks,EUROGOLF,151161,Ludvig Aberg,G,,Birdies Or Better,5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238540,2026-09-26T00:16:46.365433+00:00
+PrizePicks,EUROGOLF,151161,Ludvig Aberg,G,,Strokes,68,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238544,2026-09-26T00:16:46.365436+00:00
+PrizePicks,EUROGOLF,88733,Viktor Hovland,G,,Birdies Or Better,5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238541,2026-09-26T00:16:46.365439+00:00
+PrizePicks,EUROGOLF,259725,Ryan Gerard,G,,Strokes,68.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238545,2026-09-26T00:16:46.365441+00:00
+PrizePicks,EUROGOLF,178119,Jeff Winther,G,,Birdies Or Better,4.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238531,2026-09-26T00:16:46.365444+00:00
+PrizePicks,EUROGOLF,245013,Kristoffer Reitan,G,,Strokes,68.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238546,2026-09-26T00:16:46.365446+00:00
+PrizePicks,EUROGOLF,263528,Michael Kim,G,,Birdies Or Better,4.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238532,2026-09-26T00:16:46.365449+00:00
+PrizePicks,EUROGOLF,88733,Viktor Hovland,G,,Strokes,68.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238547,2026-09-26T00:16:46.365451+00:00
+PrizePicks,EUROGOLF,215425,Tom Vaillant,G,,Birdies Or Better,4.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238533,2026-09-26T00:16:46.365456+00:00
+PrizePicks,EUROGOLF,263528,Michael Kim,G,,Strokes,69,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238548,2026-09-26T00:16:46.365459+00:00
+PrizePicks,EUROGOLF,90323,Thriston Lawrence,G,,Birdies Or Better,4.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238534,2026-09-26T00:16:46.365462+00:00
+PrizePicks,EUROGOLF,178119,Jeff Winther,G,,Strokes,69.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238549,2026-09-26T00:16:46.365464+00:00
+PrizePicks,EUROGOLF,215425,Tom Vaillant,G,,Strokes,69.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238550,2026-09-26T00:16:46.365467+00:00
+PrizePicks,EUROGOLF,87787,Antoine Rozner,G,,Birdies Or Better,4.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238536,2026-09-26T00:16:46.365469+00:00
+PrizePicks,EUROGOLF,229240,Gregorio De Leo,G,,Strokes,69.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238551,2026-09-26T00:16:46.365472+00:00
+PrizePicks,EUROGOLF,212919,Matteo Manassero,G,,Birdies Or Better,4.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238537,2026-09-26T00:16:46.365474+00:00
+PrizePicks,EUROGOLF,90323,Thriston Lawrence,G,,Strokes,69.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238552,2026-09-26T00:16:46.365476+00:00
+PrizePicks,EUROGOLF,216451,Julien Guerrier,G,,Birdies Or Better,4.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238538,2026-09-26T00:16:46.365479+00:00
+PrizePicks,EUROGOLF,92927,Marcel Siem,G,,Strokes,69.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238553,2026-09-26T00:16:46.365483+00:00
+PrizePicks,EUROGOLF,87787,Antoine Rozner,G,,Strokes,69.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238554,2026-09-26T00:16:46.365485+00:00
+PrizePicks,EUROGOLF,212919,Matteo Manassero,G,,Strokes,69.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238555,2026-09-26T00:16:46.365487+00:00
+PrizePicks,EUROGOLF,216451,Julien Guerrier,G,,Strokes,69.5,False,standard,pre_game,2026-09-26T03:30:00.000-04:00,15238556,2026-09-26T00:16:46.365490+00:00
