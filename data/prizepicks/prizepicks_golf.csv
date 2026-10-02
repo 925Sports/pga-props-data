@@ -1,38 +1,23 @@
 source,league,player_id,player_name,position,team,stat_type,line_score,adjusted_odds,odds_type,status,start_time,data_id,scraped_at
-PrizePicks,PGA,266548,Doug Ghim,G,,Birdies or Better Matchup,0.5,False,standard,pre_game,2026-10-02T14:30:00.000-04:00,15383071,2026-10-02T16:04:29.036728+00:00
-PrizePicks,PGA,277714,John Keefer,G,,Birdies or Better Matchup,0.5,False,standard,pre_game,2026-10-02T14:30:00.000-04:00,15383074,2026-10-02T16:04:29.036747+00:00
-PrizePicks,PGA,328663,Johnny Keefer,G,,Strokes,67.5,False,standard,pre_game,2026-10-02T14:30:00.000-04:00,15382995,2026-10-02T16:04:29.036752+00:00
-PrizePicks,PGA,266548,Doug Ghim,G,,Strokes,67,False,standard,pre_game,2026-10-02T14:30:00.000-04:00,15382987,2026-10-02T16:04:29.036755+00:00
-PrizePicks,PGA,328663,Johnny Keefer,G,,Birdies Or Better,5.5,True,goblin,pre_game,2026-10-02T14:30:00.000-04:00,15382972,2026-10-02T16:04:29.036759+00:00
-PrizePicks,PGA,266548,Doug Ghim,G,,Birdies Or Better,5.5,True,goblin,pre_game,2026-10-02T14:30:00.000-04:00,15383103,2026-10-02T16:04:29.036762+00:00
-PrizePicks,PGA,303714,Sudarshan Yellamaraju,G,,Strokes,68,False,standard,pre_game,2026-10-02T14:41:00.000-04:00,15383010,2026-10-02T16:04:29.036765+00:00
-PrizePicks,PGA,303714,Sudarshan Yellamaraju,G,,Birdies Or Better,5,False,standard,pre_game,2026-10-02T14:41:00.000-04:00,15382979,2026-10-02T16:04:29.036768+00:00
-PrizePicks,PGA,303714,Sudarshan Yellamaraju,G,,Bogeys or Worse,2,False,standard,pre_game,2026-10-02T14:41:00.000-04:00,15383027,2026-10-02T16:04:29.036771+00:00
-PrizePicks,PGA,262018,Jackson Koivun,G,,Birdies or Better Matchup,0.5,False,standard,pre_game,2026-10-02T14:52:00.000-04:00,15383073,2026-10-02T16:04:29.036774+00:00
-PrizePicks,PGA,329496,Rasmus Højgaard,G,,Strokes,68,False,standard,pre_game,2026-10-02T14:52:00.000-04:00,15383007,2026-10-02T16:04:29.036776+00:00
-PrizePicks,PGA,273397,Jackson Suber,G,,Strokes,67,False,standard,pre_game,2026-10-02T14:52:00.000-04:00,15382993,2026-10-02T16:04:29.036779+00:00
-PrizePicks,PGA,273397,Jackson Suber,G,,Birdies Or Better,5.5,True,goblin,pre_game,2026-10-02T14:52:00.000-04:00,15383584,2026-10-02T16:04:29.036782+00:00
-PrizePicks,PGA,273396,Michael Brennan,G,,Birdies or Better Matchup,0.5,False,standard,pre_game,2026-10-02T15:03:00.000-04:00,15383076,2026-10-02T16:04:29.036785+00:00
-PrizePicks,PGA,266542,Kevin Yu,G,,Strokes,67.5,False,standard,pre_game,2026-10-02T15:03:00.000-04:00,15382998,2026-10-02T16:04:29.036788+00:00
-PrizePicks,PGA,323565,Benjamin James,G,,Strokes,66.5,False,standard,pre_game,2026-10-02T15:03:00.000-04:00,15382982,2026-10-02T16:04:29.036790+00:00
-PrizePicks,PGA,262018,Jackson Koivun,G,,Strokes,66.5,False,standard,pre_game,2026-10-02T15:03:00.000-04:00,15382992,2026-10-02T16:04:29.036793+00:00
-PrizePicks,PGA,273396,Michael Brennan,G,,Pars,10,False,standard,pre_game,2026-10-02T15:03:00.000-04:00,15383029,2026-10-02T16:04:29.036796+00:00
-PrizePicks,PGA,273396,Michael Brennan,G,,Birdies Or Better,6.5,True,demon,pre_game,2026-10-02T15:03:00.000-04:00,15382752,2026-10-02T16:04:29.036798+00:00
-PrizePicks,PGA,262018,Jackson Koivun,G,,Birdies Or Better,6,False,standard,pre_game,2026-10-02T15:03:00.000-04:00,15382971,2026-10-02T16:04:29.036801+00:00
-PrizePicks,PGA,273396,Michael Brennan,G,,Birdies Or Better,6,False,standard,pre_game,2026-10-02T15:03:00.000-04:00,15382976,2026-10-02T16:04:29.036804+00:00
-PrizePicks,PGA,323565,Benjamin James,G,,Birdies Or Better,5.5,True,goblin,pre_game,2026-10-02T15:03:00.000-04:00,15383060,2026-10-02T16:04:29.036807+00:00
-PrizePicks,PGA,273396,Michael Brennan,G,,Bogeys or Worse,2,False,standard,pre_game,2026-10-02T15:03:00.000-04:00,15383023,2026-10-02T16:04:29.036810+00:00
-PrizePicks,PGA,296901,Neal Shipley,G,,Strokes,68,False,standard,pre_game,2026-10-02T15:14:00.000-04:00,15383003,2026-10-02T16:04:29.036813+00:00
-PrizePicks,PGA,255016,Harry Hall,G,,Strokes,67.5,False,standard,pre_game,2026-10-02T15:14:00.000-04:00,15382991,2026-10-02T16:04:29.036816+00:00
-PrizePicks,PGA,267017,Stephan Jaeger,G,,Pars,10,False,standard,pre_game,2026-10-02T15:14:00.000-04:00,15383031,2026-10-02T16:04:29.036819+00:00
-PrizePicks,PGA,296901,Neal Shipley,G,,Birdies Or Better,5.5,False,standard,pre_game,2026-10-02T15:14:00.000-04:00,15382977,2026-10-02T16:04:29.036822+00:00
-PrizePicks,PGA,267017,Stephan Jaeger,G,,Bogeys or Worse,2,False,standard,pre_game,2026-10-02T15:14:00.000-04:00,15383026,2026-10-02T16:04:29.036825+00:00
-PrizePicks,PGA,267277,Steven Fisk,G,,Pars,10.5,True,standard,pre_game,2026-10-02T15:25:00.000-04:00,15385962,2026-10-02T16:04:29.036827+00:00
-PrizePicks,PGA,262036,Joel Dahmen,G,,Strokes,68.5,False,standard,pre_game,2026-10-02T15:36:00.000-04:00,15382994,2026-10-02T16:04:29.036830+00:00
-PrizePicks,PGA,262023,Rico Hoey,G,,Strokes,67.5,False,standard,pre_game,2026-10-02T15:36:00.000-04:00,15383008,2026-10-02T16:04:29.036833+00:00
-PrizePicks,PGA,262023,Rico Hoey,G,,Pars,10,False,standard,pre_game,2026-10-02T15:36:00.000-04:00,15383030,2026-10-02T16:04:29.036836+00:00
-PrizePicks,PGA,262036,Joel Dahmen,G,,Birdies Or Better,5.5,True,demon,pre_game,2026-10-02T15:36:00.000-04:00,15382742,2026-10-02T16:04:29.036839+00:00
-PrizePicks,PGA,266543,Matt Wallace,G,,Birdies Or Better,5.5,True,goblin,pre_game,2026-10-02T15:36:00.000-04:00,15382746,2026-10-02T16:04:29.036842+00:00
-PrizePicks,PGA,262023,Rico Hoey,G,,Bogeys or Worse,2,False,standard,pre_game,2026-10-02T15:36:00.000-04:00,15383025,2026-10-02T16:04:29.036845+00:00
-PrizePicks,PGA,297350,Hao-Tong Li,G,,Strokes,68,False,standard,pre_game,2026-10-02T15:47:00.000-04:00,15382990,2026-10-02T16:04:29.036848+00:00
-PrizePicks,PGA,267276,David Ford,G,,Birdies Or Better,5.5,False,standard,pre_game,2026-10-02T15:58:00.000-04:00,15382757,2026-10-02T16:04:29.036851+00:00
+PrizePicks,PGA,262011,Tom Hoge,G,,Hole 10 thru 18 Shots,33.5,False,standard,pre_game,2026-10-02T17:11:00.000-04:00,15391795,2026-10-02T20:50:32.056230+00:00
+PrizePicks,PGA,303714,Sudarshan Yellamaraju,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:11:00.000-04:00,15391796,2026-10-02T20:50:32.056246+00:00
+PrizePicks,PGA,273397,Jackson Suber,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:22:00.000-04:00,15391800,2026-10-02T20:50:32.056251+00:00
+PrizePicks,PGA,262004,Max Greyserman,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:22:00.000-04:00,15391801,2026-10-02T20:50:32.056254+00:00
+PrizePicks,PGA,262018,Jackson Koivun,G,,Hole 10 thru 18 Shots,32.5,False,standard,pre_game,2026-10-02T17:33:00.000-04:00,15391803,2026-10-02T20:50:32.056257+00:00
+PrizePicks,PGA,273396,Michael Brennan,G,,Hole 10 thru 18 Shots,32.5,False,standard,pre_game,2026-10-02T17:33:00.000-04:00,15391804,2026-10-02T20:50:32.056259+00:00
+PrizePicks,PGA,323565,Benjamin James,G,,Hole 10 thru 18 Shots,32.5,False,standard,pre_game,2026-10-02T17:33:00.000-04:00,15391805,2026-10-02T20:50:32.056262+00:00
+PrizePicks,PGA,255016,Harry Hall,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:44:00.000-04:00,15391797,2026-10-02T20:50:32.056265+00:00
+PrizePicks,PGA,262913,Matthew McCarty,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:44:00.000-04:00,15391798,2026-10-02T20:50:32.056268+00:00
+PrizePicks,PGA,296901,Neal Shipley,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:44:00.000-04:00,15391799,2026-10-02T20:50:32.056270+00:00
+PrizePicks,PGA,262036,Joel Dahmen,G,,Hole 10 thru 18 Shots,33.5,False,standard,pre_game,2026-10-02T18:06:00.000-04:00,15391802,2026-10-02T20:50:32.056273+00:00
+PrizePicks,PGA,328663,Johnny Keefer,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:00:00.000-04:00,15391813,2026-10-02T20:50:32.056275+00:00
+PrizePicks,PGA,349077,Dylan Wu,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:00:00.000-04:00,15391831,2026-10-02T20:50:32.056277+00:00
+PrizePicks,PGA,267106,Mac Meissner,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:11:00.000-04:00,15391814,2026-10-02T20:50:32.056280+00:00
+PrizePicks,PGA,262011,Tom Hoge,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:11:00.000-04:00,15391815,2026-10-02T20:50:32.056283+00:00
+PrizePicks,PGA,296901,Neal Shipley,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:44:00.000-04:00,15391824,2026-10-02T20:50:32.056285+00:00
+PrizePicks,PGA,262913,Matthew McCarty,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:44:00.000-04:00,15391825,2026-10-02T20:50:32.056287+00:00
+PrizePicks,PGA,318963,Will Gordon,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:55:00.000-04:00,15391826,2026-10-02T20:50:32.056290+00:00
+PrizePicks,PGA,277926,Andrew Putnam,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:06:00.000-04:00,15391827,2026-10-02T20:50:32.056293+00:00
+PrizePicks,PGA,262036,Joel Dahmen,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:06:00.000-04:00,15391828,2026-10-02T20:50:32.056295+00:00
+PrizePicks,PGA,262014,Patrick Fishburn,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:17:00.000-04:00,15391829,2026-10-02T20:50:32.056297+00:00
+PrizePicks,PGA,299012,Alejandro Tosti,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:39:00.000-04:00,15391830,2026-10-02T20:50:32.056299+00:00
