@@ -1,23 +1,5 @@
 source,league,player_id,player_name,position,team,stat_type,line_score,adjusted_odds,odds_type,status,start_time,data_id,scraped_at
-PrizePicks,PGA,262011,Tom Hoge,G,,Hole 10 thru 18 Shots,33.5,False,standard,pre_game,2026-10-02T17:11:00.000-04:00,15391795,2026-10-02T20:50:32.056230+00:00
-PrizePicks,PGA,303714,Sudarshan Yellamaraju,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:11:00.000-04:00,15391796,2026-10-02T20:50:32.056246+00:00
-PrizePicks,PGA,273397,Jackson Suber,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:22:00.000-04:00,15391800,2026-10-02T20:50:32.056251+00:00
-PrizePicks,PGA,262004,Max Greyserman,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:22:00.000-04:00,15391801,2026-10-02T20:50:32.056254+00:00
-PrizePicks,PGA,262018,Jackson Koivun,G,,Hole 10 thru 18 Shots,32.5,False,standard,pre_game,2026-10-02T17:33:00.000-04:00,15391803,2026-10-02T20:50:32.056257+00:00
-PrizePicks,PGA,273396,Michael Brennan,G,,Hole 10 thru 18 Shots,32.5,False,standard,pre_game,2026-10-02T17:33:00.000-04:00,15391804,2026-10-02T20:50:32.056259+00:00
-PrizePicks,PGA,323565,Benjamin James,G,,Hole 10 thru 18 Shots,32.5,False,standard,pre_game,2026-10-02T17:33:00.000-04:00,15391805,2026-10-02T20:50:32.056262+00:00
-PrizePicks,PGA,255016,Harry Hall,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:44:00.000-04:00,15391797,2026-10-02T20:50:32.056265+00:00
-PrizePicks,PGA,262913,Matthew McCarty,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:44:00.000-04:00,15391798,2026-10-02T20:50:32.056268+00:00
-PrizePicks,PGA,296901,Neal Shipley,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-02T17:44:00.000-04:00,15391799,2026-10-02T20:50:32.056270+00:00
-PrizePicks,PGA,262036,Joel Dahmen,G,,Hole 10 thru 18 Shots,33.5,False,standard,pre_game,2026-10-02T18:06:00.000-04:00,15391802,2026-10-02T20:50:32.056273+00:00
-PrizePicks,PGA,328663,Johnny Keefer,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:00:00.000-04:00,15391813,2026-10-02T20:50:32.056275+00:00
-PrizePicks,PGA,349077,Dylan Wu,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:00:00.000-04:00,15391831,2026-10-02T20:50:32.056277+00:00
-PrizePicks,PGA,267106,Mac Meissner,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:11:00.000-04:00,15391814,2026-10-02T20:50:32.056280+00:00
-PrizePicks,PGA,262011,Tom Hoge,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:11:00.000-04:00,15391815,2026-10-02T20:50:32.056283+00:00
-PrizePicks,PGA,296901,Neal Shipley,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:44:00.000-04:00,15391824,2026-10-02T20:50:32.056285+00:00
-PrizePicks,PGA,262913,Matthew McCarty,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:44:00.000-04:00,15391825,2026-10-02T20:50:32.056287+00:00
-PrizePicks,PGA,318963,Will Gordon,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T19:55:00.000-04:00,15391826,2026-10-02T20:50:32.056290+00:00
-PrizePicks,PGA,277926,Andrew Putnam,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:06:00.000-04:00,15391827,2026-10-02T20:50:32.056293+00:00
-PrizePicks,PGA,262036,Joel Dahmen,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:06:00.000-04:00,15391828,2026-10-02T20:50:32.056295+00:00
-PrizePicks,PGA,262014,Patrick Fishburn,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:17:00.000-04:00,15391829,2026-10-02T20:50:32.056297+00:00
-PrizePicks,PGA,299012,Alejandro Tosti,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:39:00.000-04:00,15391830,2026-10-02T20:50:32.056299+00:00
+PrizePicks,PGA,277926,Andrew Putnam,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:06:00.000-04:00,15391827,2026-10-03T00:04:20.362528+00:00
+PrizePicks,PGA,262036,Joel Dahmen,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:06:00.000-04:00,15391828,2026-10-03T00:04:20.362546+00:00
+PrizePicks,PGA,262014,Patrick Fishburn,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:17:00.000-04:00,15391829,2026-10-03T00:04:20.362551+00:00
+PrizePicks,PGA,299012,Alejandro Tosti,G,,Hole 18 Shots,4.5,False,standard,pre_game,2026-10-02T20:39:00.000-04:00,15391830,2026-10-03T00:04:20.362555+00:00
