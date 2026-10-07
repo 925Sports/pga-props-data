@@ -1,13 +1,57 @@
 source,league,player_id,player_name,position,team,stat_type,line_score,adjusted_odds,odds_type,status,start_time,data_id,scraped_at
-PrizePicks,PGA,296901,Neal Shipley,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-04T16:40:00.000-04:00,15433268,2026-10-04T20:16:57.825258+00:00
-PrizePicks,PGA,281135,Chris Kirk,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-04T16:40:00.000-04:00,15433269,2026-10-04T20:16:57.825280+00:00
-PrizePicks,PGA,267276,David Ford,G,,Hole 10 thru 18 Shots,33.5,False,standard,pre_game,2026-10-04T16:50:00.000-04:00,15433267,2026-10-04T20:16:57.825286+00:00
-PrizePicks,PGA,303569,A.J. Ewart,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-04T16:50:00.000-04:00,15433266,2026-10-04T20:16:57.825289+00:00
-PrizePicks,PGA,267017,Stephan Jaeger,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-04T17:00:00.000-04:00,15433264,2026-10-04T20:16:57.825293+00:00
-PrizePicks,PGA,267277,Steven Fisk,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-04T17:00:00.000-04:00,15433265,2026-10-04T20:16:57.825296+00:00
-PrizePicks,PGA,267203,Kevin Streelman,G,,Hole 10 thru 18 Shots,33.5,False,standard,pre_game,2026-10-04T17:10:00.000-04:00,15433262,2026-10-04T20:16:57.825298+00:00
-PrizePicks,PGA,328663,Johnny Keefer,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-04T17:10:00.000-04:00,15433263,2026-10-04T20:16:57.825301+00:00
-PrizePicks,PGA,316707,Trace Crowe,G,,Hole 10 thru 18 Shots,33.5,False,standard,pre_game,2026-10-04T17:20:00.000-04:00,15433261,2026-10-04T20:16:57.825304+00:00
-PrizePicks,PGA,323565,Benjamin James,G,,Hole 10 thru 18 Shots,32.5,False,standard,pre_game,2026-10-04T17:20:00.000-04:00,15433260,2026-10-04T20:16:57.825307+00:00
-PrizePicks,PGA,296857,Austin Smotherman,G,,Hole 10 thru 18 Shots,33,False,standard,pre_game,2026-10-04T17:30:00.000-04:00,15433258,2026-10-04T20:16:57.825310+00:00
-PrizePicks,PGA,266548,Doug Ghim,G,,Hole 10 thru 18 Shots,32.5,False,standard,pre_game,2026-10-04T17:30:00.000-04:00,15433259,2026-10-04T20:16:57.825313+00:00
+PrizePicks,EUROGOLF,284273,Oliver Lindell,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T02:40:00.000-04:00,15486391,2026-10-07T09:34:24.598518+00:00
+PrizePicks,EUROGOLF,284273,Oliver Lindell,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T02:40:00.000-04:00,15486419,2026-10-07T09:34:24.598536+00:00
+PrizePicks,EUROGOLF,211006,Niklas Nørgaard Møller,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T02:50:00.000-04:00,15486392,2026-10-07T09:34:24.598539+00:00
+PrizePicks,EUROGOLF,211006,Niklas Nørgaard Møller,G,,Strokes,70,False,standard,pre_game,2026-10-08T02:50:00.000-04:00,15486433,2026-10-07T09:34:24.598541+00:00
+PrizePicks,EUROGOLF,87397,Rafa Cabrera-Bello,G,,Birdies Or Better,3.5,False,standard,pre_game,2026-10-08T02:50:00.000-04:00,15486390,2026-10-07T09:34:24.598543+00:00
+PrizePicks,EUROGOLF,87397,Rafa Cabrera-Bello,G,,Strokes,70.5,False,standard,pre_game,2026-10-08T02:50:00.000-04:00,15486446,2026-10-07T09:34:24.598545+00:00
+PrizePicks,EUROGOLF,215426,David Puig,G,,Birdies Or Better,4.5,False,standard,pre_game,2026-10-08T03:00:00.000-04:00,15486413,2026-10-07T09:34:24.598547+00:00
+PrizePicks,EUROGOLF,199991,Tom McKibbin,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T03:00:00.000-04:00,15486393,2026-10-07T09:34:24.598549+00:00
+PrizePicks,EUROGOLF,215426,David Puig,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T03:00:00.000-04:00,15486420,2026-10-07T09:34:24.598551+00:00
+PrizePicks,EUROGOLF,199991,Tom McKibbin,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T03:00:00.000-04:00,15486421,2026-10-07T09:34:24.598553+00:00
+PrizePicks,EUROGOLF,140301,Adrian Meronk,G,,Strokes,70,False,standard,pre_game,2026-10-08T03:10:00.000-04:00,15486434,2026-10-07T09:34:24.598554+00:00
+PrizePicks,EUROGOLF,151161,Ludvig Aberg,G,,Strokes,68.5,False,standard,pre_game,2026-10-08T03:20:00.000-04:00,15486415,2026-10-07T09:34:24.598556+00:00
+PrizePicks,EUROGOLF,222365,Angel Ayora,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T03:20:00.000-04:00,15486422,2026-10-07T09:34:24.598557+00:00
+PrizePicks,EUROGOLF,88735,Tyrrell Hatton,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T03:20:00.000-04:00,15486423,2026-10-07T09:34:24.598559+00:00
+PrizePicks,EUROGOLF,235437,Eugenio Chacarra,G,,Strokes,69,False,standard,pre_game,2026-10-08T03:30:00.000-04:00,15486416,2026-10-07T09:34:24.598560+00:00
+PrizePicks,EUROGOLF,235437,Eugenio Chacarra,G,,Birdies Or Better,4.5,False,standard,pre_game,2026-10-08T03:30:00.000-04:00,15486414,2026-10-07T09:34:24.598562+00:00
+PrizePicks,EUROGOLF,95089,Patrick Reed,G,,Strokes,69,False,standard,pre_game,2026-10-08T03:30:00.000-04:00,15486417,2026-10-07T09:34:24.598563+00:00
+PrizePicks,EUROGOLF,88734,Shane Lowry,G,,Strokes,69,False,standard,pre_game,2026-10-08T03:30:00.000-04:00,15486418,2026-10-07T09:34:24.598565+00:00
+PrizePicks,EUROGOLF,95089,Patrick Reed,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T03:30:00.000-04:00,15486394,2026-10-07T09:34:24.598567+00:00
+PrizePicks,EUROGOLF,225197,Daniel Hillier,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T03:40:00.000-04:00,15486395,2026-10-07T09:34:24.598569+00:00
+PrizePicks,EUROGOLF,215808,Joe Dean,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T03:40:00.000-04:00,15486396,2026-10-07T09:34:24.598570+00:00
+PrizePicks,EUROGOLF,225197,Daniel Hillier,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T03:40:00.000-04:00,15486424,2026-10-07T09:34:24.598572+00:00
+PrizePicks,EUROGOLF,215808,Joe Dean,G,,Strokes,70,False,standard,pre_game,2026-10-08T03:40:00.000-04:00,15486435,2026-10-07T09:34:24.598574+00:00
+PrizePicks,EUROGOLF,216455,Daniel Brown,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T03:50:00.000-04:00,15486397,2026-10-07T09:34:24.598575+00:00
+PrizePicks,EUROGOLF,141757,Victor Perez,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T03:50:00.000-04:00,15486398,2026-10-07T09:34:24.598577+00:00
+PrizePicks,EUROGOLF,141757,Victor Perez,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T03:50:00.000-04:00,15486425,2026-10-07T09:34:24.598578+00:00
+PrizePicks,EUROGOLF,235930,Sam Bairstow,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T03:50:00.000-04:00,15486399,2026-10-07T09:34:24.598580+00:00
+PrizePicks,EUROGOLF,216455,Daniel Brown,G,,Strokes,70,False,standard,pre_game,2026-10-08T03:50:00.000-04:00,15486436,2026-10-07T09:34:24.598582+00:00
+PrizePicks,EUROGOLF,235930,Sam Bairstow,G,,Strokes,70,False,standard,pre_game,2026-10-08T03:50:00.000-04:00,15486437,2026-10-07T09:34:24.598584+00:00
+PrizePicks,EUROGOLF,87787,Antoine Rozner,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T04:00:00.000-04:00,15486400,2026-10-07T09:34:24.598585+00:00
+PrizePicks,EUROGOLF,87787,Antoine Rozner,G,,Strokes,70,False,standard,pre_game,2026-10-08T04:00:00.000-04:00,15486438,2026-10-07T09:34:24.598587+00:00
+PrizePicks,EUROGOLF,285370,Jose Luis Ballester,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T07:10:00.000-04:00,15486426,2026-10-07T09:34:24.598589+00:00
+PrizePicks,EUROGOLF,142369,Ewen Ferguson,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T07:10:00.000-04:00,15486401,2026-10-07T09:34:24.598591+00:00
+PrizePicks,EUROGOLF,285370,Jose Luis Ballester,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T07:10:00.000-04:00,15486402,2026-10-07T09:34:24.598593+00:00
+PrizePicks,EUROGOLF,142369,Ewen Ferguson,G,,Strokes,70,False,standard,pre_game,2026-10-08T07:10:00.000-04:00,15486439,2026-10-07T09:34:24.598594+00:00
+PrizePicks,EUROGOLF,222472,Jacob Skov Olesen,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T07:30:00.000-04:00,15486427,2026-10-07T09:34:24.598596+00:00
+PrizePicks,EUROGOLF,222472,Jacob Skov Olesen,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T07:30:00.000-04:00,15486403,2026-10-07T09:34:24.598598+00:00
+PrizePicks,EUROGOLF,88262,Thomas Detry,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T07:40:00.000-04:00,15486429,2026-10-07T09:34:24.598600+00:00
+PrizePicks,EUROGOLF,206435,Matthew Jordan,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T07:40:00.000-04:00,15486404,2026-10-07T09:34:24.598601+00:00
+PrizePicks,EUROGOLF,88262,Thomas Detry,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T07:40:00.000-04:00,15486405,2026-10-07T09:34:24.598603+00:00
+PrizePicks,EUROGOLF,206435,Matthew Jordan,G,,Strokes,70,False,standard,pre_game,2026-10-08T07:40:00.000-04:00,15486440,2026-10-07T09:34:24.598605+00:00
+PrizePicks,EUROGOLF,88736,Alex Noren,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T07:50:00.000-04:00,15486430,2026-10-07T09:34:24.598606+00:00
+PrizePicks,EUROGOLF,88736,Alex Noren,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T07:50:00.000-04:00,15486406,2026-10-07T09:34:24.598608+00:00
+PrizePicks,EUROGOLF,87794,Nicolai Højgaard,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T07:50:00.000-04:00,15486407,2026-10-07T09:34:24.598610+00:00
+PrizePicks,EUROGOLF,87794,Nicolai Højgaard,G,,Strokes,70,False,standard,pre_game,2026-10-08T07:50:00.000-04:00,15486441,2026-10-07T09:34:24.598612+00:00
+PrizePicks,EUROGOLF,144119,Justin Rose,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T08:00:00.000-04:00,15486431,2026-10-07T09:34:24.598614+00:00
+PrizePicks,EUROGOLF,236307,Marco Penge,G,,Strokes,69.5,False,standard,pre_game,2026-10-08T08:00:00.000-04:00,15486432,2026-10-07T09:34:24.598615+00:00
+PrizePicks,EUROGOLF,144119,Justin Rose,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T08:00:00.000-04:00,15486408,2026-10-07T09:34:24.598617+00:00
+PrizePicks,EUROGOLF,95943,Sergio Garcia,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T08:00:00.000-04:00,15486409,2026-10-07T09:34:24.598619+00:00
+PrizePicks,EUROGOLF,95943,Sergio Garcia,G,,Strokes,70,False,standard,pre_game,2026-10-08T08:00:00.000-04:00,15486442,2026-10-07T09:34:24.598621+00:00
+PrizePicks,EUROGOLF,222470,Jayden Schaper,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T08:10:00.000-04:00,15486410,2026-10-07T09:34:24.598622+00:00
+PrizePicks,EUROGOLF,222470,Jayden Schaper,G,,Strokes,70,False,standard,pre_game,2026-10-08T08:10:00.000-04:00,15486443,2026-10-07T09:34:24.598624+00:00
+PrizePicks,EUROGOLF,96246,Calum Hill,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T08:20:00.000-04:00,15486411,2026-10-07T09:34:24.598626+00:00
+PrizePicks,EUROGOLF,96246,Calum Hill,G,,Strokes,70,False,standard,pre_game,2026-10-08T08:20:00.000-04:00,15486444,2026-10-07T09:34:24.598628+00:00
+PrizePicks,EUROGOLF,260919,Joakim Lagergren,G,,Birdies Or Better,4,False,standard,pre_game,2026-10-08T08:40:00.000-04:00,15486412,2026-10-07T09:34:24.598630+00:00
+PrizePicks,EUROGOLF,260919,Joakim Lagergren,G,,Strokes,70,False,standard,pre_game,2026-10-08T08:40:00.000-04:00,15486445,2026-10-07T09:34:24.598632+00:00
